@@ -6,6 +6,7 @@
 .mytable {
 	overflow-x: auto;
 	white-space: nowrap;
+    @apply md:container mx-auto;
 }
 
 /* width */
